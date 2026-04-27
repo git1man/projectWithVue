@@ -29,10 +29,10 @@
       class="col-span-12 lg:col-span-6 xl:col-span-6 md:col-span-12 px-6 md:px-10 lg:mb-28 md:mb-20.5"
     >
       <div class="text-2xl font-semibold mt-10 dark:text-white">
-        Popular Destinations
+        pics that come in the install
       </div>
       <div class="font-thin mt-2 dark:text-white">
-        A selection of great work cities with lots to see and explore
+        A selection of great svgs and pngs
       </div>
       <div
         class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 mt-8 gap-6"
